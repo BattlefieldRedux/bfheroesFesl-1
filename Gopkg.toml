@@ -27,11 +27,11 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/Synaxis/logrus"
+  name = "github.com/OSHeroes/logrus"
 
 [[constraint]]
   branch = "master"
-  name = "github.com/Synaxis/mysql"
+  name = "github.com/OSHeroes/mysql"
 
 [[constraint]]
   name = "github.com/go-redis/redis"

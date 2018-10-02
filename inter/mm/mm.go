@@ -3,7 +3,7 @@ package mm
 //Sync Theater with Fesl
 
 import (
-	"github.com/Synaxis/bfheroesFesl/inter/network"
+	"github.com/OSHeroes/bfheroesFesl/inter/network"
 )
 
 var Games = make(map[string]*network.Client)

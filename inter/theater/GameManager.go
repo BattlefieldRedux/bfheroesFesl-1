@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/Synaxis/bfheroesFesl/inter/mm"
-	"github.com/Synaxis/bfheroesFesl/inter/network"
-	"github.com/Synaxis/bfheroesFesl/storage/level"
+	"github.com/OSHeroes/bfheroesFesl/inter/mm"
+	"github.com/OSHeroes/bfheroesFesl/inter/network"
+	"github.com/OSHeroes/bfheroesFesl/storage/level"
 
 	"github.com/sirupsen/logrus"
 )

@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/Synaxis/bfheroesFesl/config"
+	"github.com/OSHeroes/bfheroesFesl/config"
 
 	// Needed since we are using this as driver for MySQL database
-	"github.com/Synaxis/logrus"
-	_ "github.com/Synaxis/mysql"
+	"github.com/OSHeroes/logrus"
+	_ "github.com/OSHeroes/mysql"
 )
 
 // New tries to establish connection with database

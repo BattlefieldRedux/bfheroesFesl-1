@@ -4,7 +4,7 @@
 [[projects]]
   branch = "master"
   digest = "1:3eef2dd9dd419d8c22d4000fdfa0f93b5029a2362a9d9c3b2a71a1ece1bb564a"
-  name = "github.com/Synaxis/logrus"
+  name = "github.com/OSHeroes/logrus"
   packages = ["."]
   pruneopts = "UT"
   revision = "ded7de17baa50b557c9ce87bd2b41b04b786662b"
@@ -12,7 +12,7 @@
 [[projects]]
   branch = "master"
   digest = "1:1c6f1852075ff8013c3cb58b7b16360fc70905c01da1075b3c1b20dc19a36d65"
-  name = "github.com/Synaxis/mysql"
+  name = "github.com/OSHeroes/mysql"
   packages = ["."]
   pruneopts = "UT"
   revision = "0838963f947091bda49a2b330126759e617f95b0"
@@ -126,8 +126,8 @@
   analyzer-name = "dep"
   analyzer-version = 1
   input-imports = [
-    "github.com/Synaxis/logrus",
-    "github.com/Synaxis/mysql",
+    "github.com/OSHeroes/logrus",
+    "github.com/OSHeroes/mysql",
     "github.com/go-redis/redis",
     "github.com/kelseyhightower/envconfig",
     "github.com/satori/go.uuid",

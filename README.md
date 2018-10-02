@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/Synaxis/bfheroesFesl.svg)](http://hits.dwyl.io/Synaxis/bfheroesFesl)
+[![HitCount](http://hits.dwyl.io/OSHeroes/bfheroesFesl.svg)](http://hits.dwyl.io/OSHeroes/bfheroesFesl)
 # Open Heroes Backend
 
 ## Setting up
